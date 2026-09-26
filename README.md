@@ -14,6 +14,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
+| [0498-diagonal-traverse](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -106,6 +107,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -167,6 +169,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
