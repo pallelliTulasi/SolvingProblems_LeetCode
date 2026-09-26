@@ -17,6 +17,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2788-split-strings-by-separator](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2788-split-strings-by-separator/) | Easy |
