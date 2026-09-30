@@ -12,6 +12,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
@@ -55,6 +56,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
+| [0198-house-robber](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
