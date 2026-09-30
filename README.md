@@ -14,6 +14,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -54,6 +55,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
+| [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -182,4 +185,12 @@ Private Repository create by CodeSyncer Extenstion
 | [0181-employees-earning-more-than-their-managers](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0183-customers-who-never-order/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
