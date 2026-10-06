@@ -59,6 +59,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
@@ -74,6 +75,7 @@ Private Repository create by CodeSyncer Extenstion
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -214,5 +216,6 @@ Private Repository create by CodeSyncer Extenstion
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
