@@ -41,6 +41,7 @@ Private Repository create by CodeSyncer Extenstion
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0125-valid-palindrome/) | Easy |
@@ -57,6 +58,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
@@ -123,6 +125,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
@@ -198,4 +201,8 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0322-coin-change/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
