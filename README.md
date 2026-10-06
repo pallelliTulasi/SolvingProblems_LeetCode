@@ -8,6 +8,7 @@ Private Repository create by CodeSyncer Extenstion
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
@@ -51,6 +52,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0078-subsets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0078-subsets/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
