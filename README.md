@@ -7,6 +7,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0046-permutations](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0046-permutations/) | Medium |
 | [0075-sort-colors](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
@@ -55,6 +56,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0090-subsets-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
